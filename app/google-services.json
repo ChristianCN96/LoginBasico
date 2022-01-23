@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488254796185",
+    "firebase_url": "https://ejemplologin-dab7b-default-rtdb.firebaseio.com",
+    "project_id": "ejemplologin-dab7b",
+    "storage_bucket": "ejemplologin-dab7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488254796185:android:f6513197cc0fb21113a308",
+        "android_client_info": {
+          "package_name": "com.example.ejemplologin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488254796185-i58p72fhrdt8j27ohpnumm1vfukk8tai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ejemplologin",
+            "certificate_hash": "a820393f1eace4d7024f93bc4bc7119a3731af07"
+          }
+        },
+        {
+          "client_id": "488254796185-r2gjpto29j0gtk41754lfi3qrfbq65au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwjCB7phZWozHHY_iIgODpfF_MIzwyLpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488254796185-r2gjpto29j0gtk41754lfi3qrfbq65au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
